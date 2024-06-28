@@ -1,1 +1,1 @@
-# CQU-CLASS-LEARNING
+# 重庆大学计算机学习资料
